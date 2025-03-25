@@ -1,39 +1,40 @@
 # 💡 Jartmatm
 
-## 📊 Analista de Datos | Científico de Datos | Programador | Administrador de Negocios Internacionales
+## 📊 Data Analyst | Data Scientist | Programmer | International Business Administrator
 
-Apasionado por la ciencia, la tecnología y la cultura. Me encanta transformar datos en información valiosa, responder preguntas complejas a través del análisis de datos y desarrollar soluciones innovadoras.
-
----
-
-## 🚀 Tecnologías y Herramientas
-
-🔹 **Lenguajes y herramientas:** SQL, Python, Power BI, Excel  
-🔹 **Bibliotecas y frameworks:** Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras  
+Passionate about science, technology, and culture. I love transforming data into valuable insights, answering complex questions through data analysis, and developing innovative solutions.
 
 ---
 
-## 🎯 Objetivos y Motivación
+## 🚀 Technologies and Tools
 
-✔️ Resolver problemas complejos a través del análisis de datos.  
-✔️ Crear software para analítica de datos y aplicaciones móviles.  
-✔️ Explorar nuevas tecnologías y enfoques en ciencia de datos.  
-
----
-
-## 📂 Proyectos
-
-📌 Actualmente en proceso de desarrollar y compartir proyectos en GitHub. ¡Mantente atento!  
+🔹 **Languages and Tools:** SQL, Python, Power BI, Excel  
+🔹 **Libraries and Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras  
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🎯 Goals and Motivation
+
+✔️ Solve complex problems through data analysis.  
+✔️ Develop software for data analytics and mobile applications.  
+✔️ Explore new technologies and approaches in data science.  
+
+---
+
+## 📂 Projects
+
+📌 Currently working on developing and sharing projects on GitHub. Stay tuned!  
+
+---
+
+## 🌐 Connect with Me
 
 🔗 LinkedIn: [Jairo Mateus Mateus](https://www.linkedin.com/in/jairo-mateus-mateus-09544084/)  
 
-📩 ¡Estoy abierto a colaboraciones y nuevas oportunidades! No dudes en contactarme.  
+📩 I am open to collaborations and new opportunities! Feel free to reach out.  
 
 ---
 
-⭐ **Si te interesa mi trabajo, no dudes en seguirme y estar al tanto de mis futuros proyectos.** 🚀
+⭐ **If you're interested in my work, don't hesitate to follow me and stay updated on my future projects.** 🚀
+
 
